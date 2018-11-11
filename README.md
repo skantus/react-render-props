@@ -1,7 +1,5 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
 <p align="center">
-<img src="https://raw.githubusercontent.com/skantus/react-render-props/master/src/assets/screenshots/git.gif" width="640"/>
+<img src="https://raw.githubusercontent.com/skantus/react-render-props/master/src/assets/screenshots/git.gif" width="1024"/>
 </p>
 
 ### `npm start`
